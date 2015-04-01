@@ -1,7 +1,7 @@
 # KillConfirmed
 Minijuego KillConfirmed
 
-Minijuego creado por NahuLD con Luis (Drezed)
+Minijuego creado por NahuLD con _Drezed_ | iTheReload
 
 Todos los derechos reservados
 
